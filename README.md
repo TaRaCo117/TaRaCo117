@@ -36,6 +36,7 @@ ITの学習中です。
 ![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Common%20Lisp-%23000000?style=for-the-badge&logo=commonlisp)
+![Static Badge](https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=%23FFFFFF)
 
 
 
@@ -66,11 +67,10 @@ ITの学習中です。
 ### Implement（導入予定・検討中）
 
 
-| **Group→<br>↓Period(?)** | **1**                                                                                                                                                                                             | **2**                                                                                                                                                                                    | **3**                                                                                                                                                                                        |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                        | ![Static Badge](https://img.shields.io/badge/Language-CommonLisp?style=for-the-badge&logo=commonlisp&logoColor=%23FFFFFF&logoSize=auto&label=CommonLisp&labelColor=%23000000&color=%23151515)<br> | ![Static Badge](https://img.shields.io/badge/Language-Haskell?style=for-the-badge&logo=haskell&logoColor=%23FFFFFF&logoSize=auto&label=Haskell&labelColor=%235D4F85&color=%23151515)<br> | ![Static Badge](https://img.shields.io/badge/Editor-Spacemacs?style=for-the-badge&logo=spacemacs&logoColor=%23FFFFFF&logoSize=auto&label=Spacemacs&labelColor=%239266CC&color=%23151515)<br> |
 
-
+| **Group→<br>↓Period(?)** | **1**                                                                                                                                                                                    | **2**                                                                                                                                                                                        |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                        | ![Static Badge](https://img.shields.io/badge/Language-Haskell?style=for-the-badge&logo=haskell&logoColor=%23FFFFFF&logoSize=auto&label=Haskell&labelColor=%235D4F85&color=%23151515)<br> | ![Static Badge](https://img.shields.io/badge/Editor-Spacemacs?style=for-the-badge&logo=spacemacs&logoColor=%23FFFFFF&logoSize=auto&label=Spacemacs&labelColor=%239266CC&color=%23151515)<br> |
 
 
 
