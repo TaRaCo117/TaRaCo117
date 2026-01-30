@@ -33,10 +33,12 @@ ITの学習中です。
 
 ### Main
 
-<img src="Icons/Commonlisp.svg" width="40" />&nbsp;&nbsp;<img src="Icons/Commonlisp.svg" width="40"/>
+![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Common%20Lisp-%23000000?style=for-the-badge&logo=commonlisp)
 
 
-**Icons : [Devicon](https://devicon.dev/) , [Simple Icons](https://simpleicons.org/)**
+
 
 （テーブルには興味のある言語やツールを含めた一覧を表示しています、周期表みたいで嬉しいので入れました）
 
