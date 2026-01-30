@@ -18,6 +18,8 @@ ITの学習中です。
 
 現在、リポジトリは非公開ですが、開発の区切りがつき次第公開予定です。
 
+![Matsui's GitHub stats](https://github-readme-stats-blush-psi-83.vercel.app/api?username=TaRaCo117) 
+
 ## Works
 
 | **Name**    | **About**                 | **Note**                    |
