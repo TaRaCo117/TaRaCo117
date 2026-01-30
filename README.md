@@ -18,7 +18,7 @@ ITの学習中です。
 
 現在、リポジトリは非公開ですが、開発の区切りがつき次第公開予定です。
 
-![Matsui's GitHub stats](https://github-readme-stats-blush-psi-83.vercel.app/api?username=TaRaCo117) 
+![Matsui's GitHub stats](https://github-readme-stats-alpha-lake-35.vercel.app/api/top-langs/?username=TaRaCo117&title_color=ffffff&text_color=ffffff&bg_color=90,000000,001aff&border_color=000000&layout=donut&count_private_true)
 
 ## Works
 
