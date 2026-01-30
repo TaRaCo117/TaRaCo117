@@ -34,7 +34,7 @@ ITの学習中です。
 ### Main
 
 
-
+**Icons : [Devicon](https://devicon.dev/) , [Simple Icons](https://simpleicons.org/)**
 
 （テーブルには興味のある言語やツールを含めた一覧を表示しています、周期表みたいで嬉しいので入れました）
 
