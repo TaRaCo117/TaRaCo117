@@ -27,7 +27,7 @@ ITの学習中です。
 | MyElements | 楽しく学べる元素周期表Webアプリケーション | 現在開発中。リポジトリは区切りがつき次第公開予定。 |
 
 
-## Tech Stack Table
+## Tech Stack
 
 興味のある言語、技術などを中心に学習しています。
 
@@ -36,6 +36,6 @@ ITの学習中です。
 ![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Common%20Lisp-%23000000?style=for-the-badge&logo=commonlisp)
-![Static Badge](https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=%23FFFFFF)
+
 
 
