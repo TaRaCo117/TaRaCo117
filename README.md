@@ -29,13 +29,29 @@ ITの学習中です。
 
 ## Tech Stack
 
-興味のある言語、技術などを中心に学習しています。
+### Main(メインで勉強中)
 
-### Main
+![Static Badge](https://img.shields.io/badge/php-php?style=for-the-badge&logo=php&logoColor=%23FFFFFF&color=%23777BB4)
+![Static Badge](https://img.shields.io/badge/python-python?style=for-the-badge&logo=python&logoColor=%23FFFFFF&color=%233776AB)
+![Static Badge](https://img.shields.io/badge/commonlisp-commonlisp?style=for-the-badge&logo=commonlisp&logoColor=%23FFFFFF&color=%23000000)
+![Static Badge](https://img.shields.io/badge/ubuntu-ubuntu?style=for-the-badge&logo=ubuntu&logoColor=%23FFFFFF&color=%23E95420)
 
-![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=%23FFFFFF)
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23FFFFFF)
-![Static Badge](https://img.shields.io/badge/Common%20Lisp-%23000000?style=for-the-badge&logo=commonlisp)
+### Learning(メインではないが勉強中)
+
+![Static Badge](https://img.shields.io/badge/haskell-haskell?style=for-the-badge&logo=haskell&logoColor=%23FFFFFF&color=%235D4F85)
+![Static Badge](https://img.shields.io/badge/erlang-erlang?style=for-the-badge&logo=erlang&logoColor=%23FFFFFF&color=%23A90533)
+![Static Badge](https://img.shields.io/badge/clojure-clojure?style=for-the-badge&logo=clojure&logoColor=%23FFFFFF&color=%235881D8)
+![Static Badge](https://img.shields.io/badge/emacs-emacs?style=for-the-badge&logo=gnuemacs&logoColor=%23FFFFFF&color=%237F5AB6)
+
+### Interested(興味あり)
+
+![Static Badge](https://img.shields.io/badge/perl-perl?style=for-the-badge&logo=perl&logoColor=%23FFFFFF&color=%230073A1)
+![Static Badge](https://img.shields.io/badge/lua-lua?style=for-the-badge&logo=lua&logoColor=%23FFFFFF&color=%23000080)
+![Static Badge](https://img.shields.io/badge/rust-rust?style=for-the-badge&logo=rust&logoColor=%23FFFFFF&color=%23000000)
+![Static Badge](https://img.shields.io/badge/gentoo-gentoo?style=for-the-badge&logo=gentoo&logoColor=%23FFFFFF&color=%2354487A)
+
+
+
 
 
 
