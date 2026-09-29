@@ -45,8 +45,6 @@ ITの学習中です。
 
 ### Interested(興味あり)
 
-![Static Badge](https://img.shields.io/badge/perl-perl?style=for-the-badge&logo=perl&logoColor=%23FFFFFF&color=%230073A1)
-![Static Badge](https://img.shields.io/badge/lua-lua?style=for-the-badge&logo=lua&logoColor=%23FFFFFF&color=%23000080)
 ![Static Badge](https://img.shields.io/badge/rust-rust?style=for-the-badge&logo=rust&logoColor=%23FFFFFF&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/gentoo-gentoo?style=for-the-badge&logo=gentoo&logoColor=%23FFFFFF&color=%2354487A)
 
